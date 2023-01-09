@@ -3,14 +3,6 @@
 
 > https://rashmidesai09.github.io
 
-### Website Preview
-<p align="center"> 
-  <kbd>
-    <a href="https://rashmidesa09.github.io" target="_blank">
-  </a>
-  </kbd>
-</p>
-
 
 ## Installation & Deployment 📦
 - Clone the repository and modify the content of <b>index.html</b> according to your requirement.
@@ -27,7 +19,7 @@
 ✔️ Skills \
 ✔️ Education\
 ✔️ Contact Info\
-✔️ Resume
+
 
 To view a live example, **[click here](https://rashmidesai09.github.io/)**
 
